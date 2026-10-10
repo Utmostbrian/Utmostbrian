@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Brian Serrudo Beizaga — Full Stack Developer" />
+  <Brian Serrudo Beizaga Systems enginner/>
 </div>
 
 <a href="https://brian-portfolio-psi.vercel.app/">PORTFOLIO</a>
@@ -8,7 +8,7 @@
 
 ### ABOUT ME
 
-I'm **Brian Serrudo Beizaga**, a Full Stack Developer and **Systems Engineering** student in Bolivia. I'm 20 years old, with experience in software architecture, backend development, network administration, and integrating software with custom hardware.
+I'm **Brian Serrudo Beizaga**, a Developer and **Systems Engineering** student in Bolivia. I'm 20 years old, with experience in software architecture, backend development, network administration, and integrating software with custom hardware.
 
 I'm interested in building scalable solutions, improving processes, and taking digital ideas from prototype to working product.
 
