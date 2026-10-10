@@ -23,8 +23,8 @@ Me interesa crear soluciones escalables, optimizar procesos y llevar ideas digit
 | Área | Herramientas |
 | :--- | :--- |
 | **Backend y lenguajes** | `Node.js` · `Express.js` · `Python` · `JavaScript` |
-| **Diseño e interfaces** | `Figma` · `HTML5` · `CSS3` `Typescript` |
-| **Datos y despliegue** | `MongoDB` · `Vercel` `Firebase` |
+| **Diseño e interfaces** | `Figma` · `HTML5` · `CSS3` · `Typescript` |
+| **Datos y despliegue** | `MongoDB` · `Vercel` · `Firebase` |
 
 ### PROYECTOS DESTACADOS
 
