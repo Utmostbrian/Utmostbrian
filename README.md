@@ -1,5 +1,5 @@
 <div align="center">
-  Brian Serrudo Beizaga Systems enginner
+  <img src="assets/hero.svg" width="100%" alt="Brian Serrudo Beizaga — Full Stack Developer" />
 </div>
 
 <a href="https://brian-portfolio-psi.vercel.app/">PORTFOLIO</a>
