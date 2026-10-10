@@ -49,8 +49,7 @@ I'm interested in building scalable solutions, improving processes, and taking d
 
 ---
 
-<p align="center">
-  <strong>Let's work together</strong><br />
-  <a href="https://brian-portfolio-psi.vercel.app/">Explore my portfolio</a> ·
-  <a href="https://linktr.ee/bri_serrubz">Find all my links</a>
-</p>
+### LET'S WORK TOGETHER
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portfolio-psi.vercel.app/)
+[![Linktree](https://img.shields.io/badge/Linktree-%2343E55E.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bri_serrubz)
