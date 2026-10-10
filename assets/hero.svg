@@ -1,15 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Brian Serrudo Beizaga — Full Stack Developer</title>
-  <desc id="desc">Monochrome header inspired by Brian's portfolio, with large type on a black background and fine lines.</desc>
-  <rect width="1200" height="340" fill="#050505"/>
-  <rect x="24" y="24" width="1152" height="292" fill="none" stroke="#303030"/>
-  <path d="M48 72H1152M48 271H1152" stroke="#303030"/>
-  <text x="48" y="55" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">HELLO, I'M BRIAN SERRUDO BEIZAGA</text>
-  <text x="48" y="159" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">FULL STACK</text>
-  <text x="48" y="238" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">DEVELOPER</text>
-  <text x="48" y="295" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SYSTEMS ENGINEERING STUDENT</text>
-  <text x="1152" y="295" text-anchor="end" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">BOLIVIA · BS/DEV</text>
-  <circle cx="1084" cy="146" r="67" fill="none" stroke="#464646"/>
-  <circle cx="1084" cy="146" r="48" fill="none" stroke="#464646"/>
-  <path d="M1084 55V237M993 146H1175" stroke="#464646"/>
+  <desc id="desc">A new English profile banner inspired by Brian's minimalist black and white portfolio.</desc>
+  <rect width="1200" height="360" fill="#000"/>
+  <rect x="24" y="24" width="1152" height="312" fill="none" stroke="#333"/>
+  <path d="M48 82H1152M48 292H1152" stroke="#333"/>
+
+  <text x="56" y="63" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">BRIAN SERRUDO BEIZAGA</text>
+  <text x="1144" y="63" text-anchor="end" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">DEVELOPER PROFILE / 01</text>
+
+  <text x="56" y="166" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">FULL STACK</text>
+  <text x="56" y="246" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">DEVELOPER</text>
+
+  <path d="M858 104V272" stroke="#3A3A3A"/>
+  <text x="900" y="218" fill="#444" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="700">BS</text>
+  <path d="M900 238H1138" stroke="#3A3A3A"/>
+  <text x="900" y="263" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1">SOFTWARE · SYSTEMS · HARDWARE</text>
+
+  <text x="56" y="320" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">SYSTEMS ENGINEERING STUDENT</text>
+  <text x="1144" y="320" text-anchor="end" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">BOLIVIA</text>
 </svg>
