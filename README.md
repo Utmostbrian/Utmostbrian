@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://brian-portfolio-psi.vercel.app/">PORTAFOLIO</a>
+  <a href="https://brian-portfolio-psi.vercel.app/">PORTFOLIO</a>
   &nbsp;·&nbsp;
   <a href="https://linktr.ee/bri_serrubz">LINKTREE</a>
   &nbsp;·&nbsp;
@@ -12,31 +12,31 @@
 
 ---
 
-### SOBRE MÍ
+### ABOUT ME
 
-Soy **Brian Serrudo Beizaga**, desarrollador Full Stack y estudiante de **Ingeniería de Sistemas** en Bolivia. Tengo 20 años y trabajo en diseño de arquitecturas de software, desarrollo backend, administración de redes e integración de software con hardware personalizado.
+I'm **Brian Serrudo Beizaga**, a Full Stack Developer and **Systems Engineering** student in Bolivia. I'm 20 years old, with experience in software architecture, backend development, network administration, and integrating software with custom hardware.
 
-Me interesa crear soluciones escalables, optimizar procesos y llevar ideas digitales desde el prototipo hasta un producto funcional.
+I'm interested in building scalable solutions, improving processes, and taking digital ideas from prototype to working product.
 
-### TECNOLOGÍAS Y HERRAMIENTAS
+### TECHNOLOGIES & TOOLS
 
-| Área | Herramientas |
+| Area | Tools |
 | :--- | :--- |
-| **Backend y lenguajes** | `Node.js` · `Express.js` · `Python` · `JavaScript` |
-| **Diseño e interfaces** | `Figma` · `HTML5` · `CSS3` · `Typescript` |
-| **Datos y despliegue** | `MongoDB` · `Vercel` · `Firebase` |
+| **Backend & languages** | `Node.js` · `Express.js` · `Python` · `JavaScript` |
+| **Design & interfaces** | `Figma` · `HTML5` · `CSS3` · `TypeScript` |
+| **Databases & deployment** | `MongoDB` · `Vercel` · `Firebase` |
 
-### PROYECTOS DESTACADOS
+### FEATURED PROJECTS
 
-| Proyecto | Descripción |
+| Project | Description |
 | :--- | :--- |
-| [Atlas Veterinario](https://github.com/Utmostbrian/Atlas_Veterinario_UDI) | Plataforma académica con catálogo farmacológico y consultas asistidas por IA. |
-| [Utmost-FM](https://github.com/Utmostbrian/Utmost-FM) | Reproductor de escritorio con estética retro y visualización de audio. |
+| [Veterinary Atlas](https://github.com/Utmostbrian/Atlas_Veterinario_UDI) | Academic platform with a veterinary drug catalog and AI-assisted information. |
+| [Utmost-FM](https://github.com/Utmostbrian/Utmost-FM) | Desktop music player with a retro look and audio visualizations. |
 
 ---
 
 <p align="center">
-  <strong>¿Trabajamos juntos?</strong><br />
-  <a href="https://brian-portfolio-psi.vercel.app/">Explora mi portafolio</a> ·
-  <a href="https://linktr.ee/bri_serrubz">Encuentra todos mis enlaces</a>
+  <strong>Let's work together</strong><br />
+  <a href="https://brian-portfolio-psi.vercel.app/">Explore my portfolio</a> ·
+  <a href="https://linktr.ee/bri_serrubz">Find all my links</a>
 </p>

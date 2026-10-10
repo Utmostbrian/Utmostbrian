@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Brian Serrudo Beizaga — Full Stack Developer</title>
-  <desc id="desc">Cabecera monocromática inspirada en el portafolio de Brian, con tipografía grande sobre fondo negro y líneas finas.</desc>
+  <desc id="desc">Monochrome header inspired by Brian's portfolio, with large type on a black background and fine lines.</desc>
   <rect width="1200" height="340" fill="#050505"/>
   <rect x="24" y="24" width="1152" height="292" fill="none" stroke="#303030"/>
   <path d="M48 72H1152M48 271H1152" stroke="#303030"/>
-  <text x="48" y="55" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">HOLA, SOY BRIAN SERRUDO BEIZAGA</text>
+  <text x="48" y="55" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">HELLO, I'M BRIAN SERRUDO BEIZAGA</text>
   <text x="48" y="159" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">FULL STACK</text>
   <text x="48" y="238" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">DEVELOPER</text>
-  <text x="48" y="295" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">INGENIERÍA DE SISTEMAS EN FORMACIÓN</text>
+  <text x="48" y="295" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SYSTEMS ENGINEERING STUDENT</text>
   <text x="1152" y="295" text-anchor="end" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">BOLIVIA · BS/DEV</text>
   <circle cx="1084" cy="146" r="67" fill="none" stroke="#464646"/>
   <circle cx="1084" cy="146" r="48" fill="none" stroke="#464646"/>
