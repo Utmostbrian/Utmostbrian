@@ -39,7 +39,6 @@ I'm interested in building scalable solutions, improving processes, and taking d
   <img src="https://iconic-api.onrender.com/dark/firebase" width="56" alt="Firebase" title="Firebase" />
 </div>
 
-<p align="center"><sub>Skill icons by <a href="https://github.com/YuheshPandian/ICONIC">ICONIC</a>.</sub></p>
 
 ### FEATURED PROJECTS
 
