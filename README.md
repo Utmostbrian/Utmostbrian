@@ -23,15 +23,14 @@ Me interesa crear soluciones escalables, optimizar procesos y llevar ideas digit
 | Área | Herramientas |
 | :--- | :--- |
 | **Backend y lenguajes** | `Node.js` · `Express.js` · `Python` · `JavaScript` |
-| **Diseño e interfaces** | `Figma` · `HTML5` · `CSS3` |
-| **Datos y despliegue** | `MongoDB` · `Vercel` |
+| **Diseño e interfaces** | `Figma` · `HTML5` · `CSS3` `Typescript` |
+| **Datos y despliegue** | `MongoDB` · `Vercel` `Firebase` |
 
 ### PROYECTOS DESTACADOS
 
 | Proyecto | Descripción |
 | :--- | :--- |
 | [Atlas Veterinario](https://github.com/Utmostbrian/Atlas_Veterinario_UDI) | Plataforma académica con catálogo farmacológico y consultas asistidas por IA. |
-| [Agua Rafa](https://github.com/Utmostbrian/agua-rafa-web) | Sitio web para una empresa purificadora de agua en Bolivia. |
 | [Utmost-FM](https://github.com/Utmostbrian/Utmost-FM) | Reproductor de escritorio con estética retro y visualización de audio. |
 
 ---
