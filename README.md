@@ -20,7 +20,7 @@ I'm interested in building scalable solutions, improving processes, and taking d
 
 ### TECHNOLOGIES & TOOLS
 
-<div align="center">
+<div align="left">
   <strong>BACKEND & LANGUAGES</strong><br />
   <img src="https://iconic-api.onrender.com/dark/nodejs" width="56" alt="Node.js" title="Node.js" />
   <img src="https://iconic-api.onrender.com/dark/express" width="56" alt="Express.js" title="Express.js" />
@@ -38,7 +38,6 @@ I'm interested in building scalable solutions, improving processes, and taking d
   <img src="https://iconic-api.onrender.com/dark/vercel" width="56" alt="Vercel" title="Vercel" />
   <img src="https://iconic-api.onrender.com/dark/firebase" width="56" alt="Firebase" title="Firebase" />
 </div>
-
 
 ### FEATURED PROJECTS
 
