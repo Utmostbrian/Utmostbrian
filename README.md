@@ -52,3 +52,4 @@ I'm interested in building scalable solutions, improving processes, and taking d
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portfolio-psi.vercel.app/)
 [![Linktree](https://img.shields.io/badge/Linktree-%2343E55E.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bri_serrubz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-serrudo-beizaga-bb4b83358/)
