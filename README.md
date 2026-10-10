@@ -1,5 +1,5 @@
 <div align="center">
-  <Brian Serrudo Beizaga Systems enginner/>
+  Brian Serrudo Beizaga Systems enginner
 </div>
 
 <a href="https://brian-portfolio-psi.vercel.app/">PORTFOLIO</a>
