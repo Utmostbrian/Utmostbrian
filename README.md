@@ -20,11 +20,26 @@ I'm interested in building scalable solutions, improving processes, and taking d
 
 ### TECHNOLOGIES & TOOLS
 
-| Area | Tools |
-| :--- | :--- |
-| **Backend & languages** | `Node.js` · `Express.js` · `Python` · `JavaScript` |
-| **Design & interfaces** | `Figma` · `HTML5` · `CSS3` · `TypeScript` |
-| **Databases & deployment** | `MongoDB` · `Vercel` · `Firebase` |
+<div align="center">
+  <strong>BACKEND & LANGUAGES</strong><br />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="56" alt="Node.js" title="Node.js" />
+  <img src="https://iconic-api.onrender.com/dark/express" width="56" alt="Express.js" title="Express.js" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="56" alt="Python" title="Python" />
+  <img src="https://iconic-api.onrender.com/dark/js" width="56" alt="JavaScript" title="JavaScript" />
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="56" alt="TypeScript" title="TypeScript" />
+  <br /><br />
+  <strong>DESIGN & INTERFACES</strong><br />
+  <img src="https://iconic-api.onrender.com/dark/figma" width="56" alt="Figma" title="Figma" />
+  <img src="https://iconic-api.onrender.com/dark/html" width="56" alt="HTML5" title="HTML5" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="56" alt="CSS3" title="CSS3" />
+  <br /><br />
+  <strong>DATABASES & DEPLOYMENT</strong><br />
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="56" alt="MongoDB" title="MongoDB" />
+  <img src="https://iconic-api.onrender.com/dark/vercel" width="56" alt="Vercel" title="Vercel" />
+  <img src="https://iconic-api.onrender.com/dark/firebase" width="56" alt="Firebase" title="Firebase" />
+</div>
+
+<p align="center"><sub>Skill icons by <a href="https://github.com/YuheshPandian/ICONIC">ICONIC</a>.</sub></p>
 
 ### FEATURED PROJECTS
 
