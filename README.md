@@ -6,9 +6,11 @@
 
 ### ABOUT ME
 
-I'm **Brian Serrudo Beizaga**, a **Full Stack Developer** and **Systems Engineering** student in Bolivia. I'm 21 years old, with experience in software architecture, frontend and backend development, network administration, and integrating software with custom hardware.
+I'm **Brian Serrudo Beizaga**, a **Full Stack Developer** and **Systems Engineering** student in Bolivia. I'm 21 years old, and I build complete products from database to UI — web apps, desktop tools, and REST APIs.
 
-I'm interested in building scalable solutions, improving processes, and taking digital ideas from prototype to working product.
+I'm most comfortable working with **React + Node.js** on the JavaScript side, and **ASP.NET Core + SQL Server** on the .NET side. I apply layered architecture patterns (MVC, Repository, Services), validate with testing tools, and deploy to platforms like Vercel, Netlify and Firebase.
+
+Beyond web, I've built desktop applications in Python with custom UIs, audio processing, and cross-platform distribution.
 
 ### SOCIALS
 
