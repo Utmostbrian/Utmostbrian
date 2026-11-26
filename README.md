@@ -6,7 +6,7 @@
 
 ### ABOUT ME
 
-I'm **Brian Serrudo Beizaga**, a Developer and **Systems Engineering** student in Bolivia. I'm 21 years old, with experience in software architecture, backend development, network administration, and integrating software with custom hardware.
+I'm **Brian Serrudo Beizaga**, a **Full Stack Developer** and **Systems Engineering** student in Bolivia. I'm 21 years old, with experience in software architecture, frontend and backend development, network administration, and integrating software with custom hardware.
 
 I'm interested in building scalable solutions, improving processes, and taking digital ideas from prototype to working product.
 
